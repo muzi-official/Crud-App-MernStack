@@ -1,14 +1,14 @@
 
 <h1>Crud-App-MernStack (Full-Stack App)</h1>
 
-Crud Applciation, where Users can add, delete, update and delete all users search user
+Crud Applciation, where Users can add, delete, update, deleteAll and search user
 
 <h1>Demo Link</h1>
 https://www.youtube.com
 <br/>
 <h1>Live Site</h1>
 https://
-<br/><br /><br/>
+<br/><br />
 Backend Deployed at: 🔗 https://crudapp-mernstack.herokuapp.com/
 <br /><br/>
 
