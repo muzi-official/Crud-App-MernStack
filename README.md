@@ -4,10 +4,10 @@
 Crud Applciation, where Users can add, delete, update, deleteAll and search user
 
 <h1>Demo Link</h1>
-https://www.youtube.com
+https://youtu.be/nktY6wrRBVY
 <br/>
 <h1>Live Site</h1>
-https://
+https://crudapp-mernstack.web.app/
 <br/><br />
 Backend Deployed at: 🔗 https://crudapp-mernstack.herokuapp.com/
 <br /><br/>
