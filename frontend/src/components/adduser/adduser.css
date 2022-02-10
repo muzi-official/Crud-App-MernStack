@@ -1,0 +1,19 @@
+.main {
+  margin-top: 30px !important;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+  background: #fff !important;
+  border-radius: 6px !important;
+}
+
+.main:hover {
+  box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+  transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.main .form_control {
+  margin-bottom: 10px;
+}
+
+.main .btn {
+  margin: 30px;
+}

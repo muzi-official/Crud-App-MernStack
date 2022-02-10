@@ -1,0 +1,30 @@
+html,
+body {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Gill Sans", sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(252, 249, 249) !important;
+}
+
+.btn,
+input {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.btn,
+input,
+.btn:active,
+input:active,
+input:focus,
+.btn:focus {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
