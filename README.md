@@ -11,9 +11,9 @@ https://
 
 <br /><br/>
 
-<img src="https://github.com/muzi-official/Crud-App-MernStack/blob/master/Crudimg1.png" />
+<img src="https://github.com/muzi-official/Crud-App-MernStack/blob/master/Crudimg1.PNG" />
 
-<img src="https://github.com/muzi-official/Crud-App-MernStac/blob/master/Crudimg2.png" />
+<img src="https://github.com/muzi-official/Crud-App-MernStack/blob/master/Crudimg2.PNG" />
 
 
 Run Locally
