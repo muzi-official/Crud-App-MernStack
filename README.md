@@ -11,9 +11,9 @@ https://
 
 <br /><br/>
 
-<img src="https://github.com/muzi-official/MA-GPT3/blob/master/darkMuz.PNG" />
+<img src="https://github.com/muzi-official/Crud-App-MernStack/blob/master/crudimg1.PNG" />
 
-<img src="https://github.com/muzi-official/MA-GPT3/blob/master/lightMuz.PNG" />
+<img src="https://github.com/muzi-official/Crud-App-MernStac/blob/master/crudimg2.PNG" />
 
 
 Run Locally
